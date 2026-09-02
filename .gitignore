@@ -146,3 +146,7 @@ eval/iterative_format_optimizer/skills/inference-format-optimizer/logs/
 
 # VS Code workspaces
 *.code-workspace
+
+# QA Logs and Reports
+logs/
+summary.md
